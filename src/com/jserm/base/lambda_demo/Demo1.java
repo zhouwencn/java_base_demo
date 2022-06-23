@@ -1,4 +1,4 @@
-package com.jserm.base;
+package com.jserm.base.lambda_demo;
 /*
 匿名内部类
 
